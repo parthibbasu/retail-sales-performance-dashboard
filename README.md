@@ -1,1 +1,1 @@
-Use sales_data_5000_rows.csv in Power BI and recreate the dashboard using the blueprint. Dashboard screenshots are included in the screenshots folder.
+
